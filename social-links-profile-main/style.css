@@ -1,0 +1,120 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 85vh;
+    background-color: hsl(0, 0%, 8%);
+}
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+    width: 400px;
+    height: 700px;
+    border-radius: 10px;
+}   
+
+
+img{
+    border-radius: 100px;
+    height: 100px;
+    margin-top: 40px;
+}
+.info{
+    font-family: "Inter";
+    margin-bottom: 300px;
+    margin-top: 0px;
+
+}
+.info h1{
+    font-size: 30px;
+    font-weight: 500;
+}
+.info h4{
+    font-weight: 500;
+    color: hsl(75, 94%, 57%);
+    line-height: 10px;
+}
+.info p{
+    font-size: 14px;
+    margin-bottom: 100px;
+}
+
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-family: "Inter";
+    margin-top: 300px;
+    line-height: 50px;
+    position: fixed;
+}
+
+
+.git{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 8px;
+    min-width: 300px;
+    max-height: 50px;
+    background-color: hsl(0, 0%, 20%);
+}
+
+.front{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 8px;
+    min-width: 300px;
+    max-height: 50px;
+    background-color: hsl(0, 0%, 20%);
+    margin-top: 20px;
+}
+
+.linked{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 8px;
+    min-width: 300px;
+    max-height: 50px;
+    background-color: hsl(0, 0%, 20%);
+    margin-top: 20px;
+}
+
+.twitter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 8px;
+    min-width: 300px;
+    max-height: 50px;
+    background-color: hsl(0, 0%, 20%);
+    margin-top: 20px;
+}
+
+.insta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 8px;
+    min-width: 300px;
+    max-height: 50px;
+    background-color: hsl(0, 0%, 20%);
+    margin-top: 20px;
+}
